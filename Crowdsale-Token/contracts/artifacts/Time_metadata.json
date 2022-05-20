@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getTimeStamp",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Time.sol": "Time"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Time.sol": {
+			"keccak256": "0x77126c34e477bd971df20e639840e5fb4c85960feb340c9a4e8b9be516520890",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://481cff9ac7f426771673244a6b15aac41a1e0e91308294c4ed16739ea09fb23c",
+				"dweb:/ipfs/QmQv53DqnCdjZwHckqTVMJCfi5ZrdLgRSWBM3pxf9byZib"
+			]
+		}
+	},
+	"version": 1
+}
